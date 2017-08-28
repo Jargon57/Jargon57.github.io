@@ -1,0 +1,66 @@
+.banner {
+	background-color: #3D3D3D;
+	text-align:center;
+ 	border-bottom: 2px solid white;
+	color:white
+
+
+	
+}
+.banner2{
+	background-color:black;
+	border-bottom:1px solid white;
+	border-top:1px solid white;
+	text-align:center;
+	height:35px;
+	font-size:17px;
+}
+.Top{
+	border-left:4px solid white;
+	border-right:4px solid white;
+	width:1500px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.text{
+	text-align:center;
+	background-image:url("kek.jpg");
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:8px;
+	border:8px solid #635E9B;
+	width:1494px;
+	padding-left:95px;
+	padding-right:95px;
+
+	
+	
+}
+h2{
+	color:#1D4954;
+}
+h4{
+	color:#11331A
+}
+.creds{
+	text-align:center;
+	background-color:#B1BCBC;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:8px;
+	border:8px solid #638445;
+	width:250px;
+	padding-left:95px;
+	padding-right:95px;
+}
+li{
+	display:inline;
+	margin-top:auto;
+	margin-bottom:auto;
+}
+body{
+	background-color:#91A5A2;
+}
+.lel{
+	text-shadow:2px 2px grey;
+}
